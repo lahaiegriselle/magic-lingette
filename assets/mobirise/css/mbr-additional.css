@@ -1476,29 +1476,27 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-sB3d76NhXB {
-  padding-top: 0rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/magic-lingette-2-1600x1032.png");
+.cid-sBlnEcwjht {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
-.cid-sB3d76NhXB .image-wrapper img {
+.cid-sBlnEcwjht .row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sBlnEcwjht .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sBlnEcwjht .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
-.cid-sB3d76NhXB .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-sB3d76NhXB .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-sB3d76NhXB .container {
-  height: 50vh;
-}
-.cid-sB3d76NhXB .row {
-  align-items: center;
-  height: 100%;
+@media (max-width: 767px) {
+  .cid-sBlnEcwjht .image-wrapper {
+    margin-bottom: 2rem;
+  }
 }
 .cid-sB2UKlAsHa {
   padding-top: 75px;
