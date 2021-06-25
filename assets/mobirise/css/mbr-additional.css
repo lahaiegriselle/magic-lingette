@@ -704,7 +704,7 @@ a {
 }
 .cid-sB2UeYEYSM .dropdown-menu {
   border: 0px solid lightgray;
-  background: #3b5abb !important;
+  background: #e43f3f !important;
 }
 .cid-sB2UeYEYSM .menu-content-top {
   max-width: 1200px;
@@ -721,7 +721,7 @@ a {
 .cid-sB2UeYEYSM .menu-bottom {
   margin: auto;
   width: 100%;
-  background: #3b5abb;
+  background: #e43f3f;
   display: flex;
   padding: 0 2rem;
   position: relative;
@@ -1330,7 +1330,7 @@ a {
 }
 .cid-sB2UeYEYSM .dropdown-item.active,
 .cid-sB2UeYEYSM .dropdown-item:active {
-  background: #3b5abb;
+  background: #e43f3f;
   color: initial;
 }
 .cid-sB2Uzs4bDn {
@@ -1626,7 +1626,7 @@ a {
   text-align: center;
 }
 .cid-sB2YhI3gwj .desc2 {
-  color: #1b745e;
+  color: #ff6666;
   padding-top: 5px;
 }
 .cid-sB2YhI3gwj .card {
@@ -1678,4 +1678,8 @@ a {
   .cid-sB2YhI3gwj .features-image:nth-child(3) {
     padding-top: 32px;
   }
+}
+.cid-sB2YhI3gwj .desc1,
+.cid-sB2YhI3gwj .iconfont-wrapper {
+  color: #e43f3f;
 }
